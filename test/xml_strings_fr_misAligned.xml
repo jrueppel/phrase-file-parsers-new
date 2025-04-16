@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dark_mode_label">Mode sombre</string>
+    <string name="explore_title">Explorer</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="password_hint">Entrez votre mot de passe</string>
+    <string name="signup_button">S'inscrire</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="profile_title">Profil</string>
+    <string name="notifications_label">Notifications</string>
+    <string name="username_hint">Entrez votre nom d'utilisateur</string>
+    <string name="language_label">Langue</string>
+    <string name="search_hint">Rechercher des destinations...</string>
+    <string name="no_results_found">Aucun résultat trouvé</string>
+    <string name="bookings_title">Mes Réservations</string>
+    <string name="logout_button">Se déconnecter</string>
+    <string name="welcome_message">Bienvenue sur Planificateur de Voyage</string>
+    <string name="home_title">Accueil</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="login_button">Se connecter</string>
+    <string name="app_name">Planificateur de Voyage</string>
+</resources>

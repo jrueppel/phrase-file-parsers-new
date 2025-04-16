@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="strings">
+    <body>
+      <trans-unit id="app_name">
+        <source>Travel Planner</source>
+        <target>Planificateur de Voyage</target>
+      </trans-unit>
+      <trans-unit id="welcome_message">
+        <source>Welcome to Travel Planner</source>
+        <target>Bienvenue sur Planificateur de Voyage</target>
+      </trans-unit>
+      <trans-unit id="login_button">
+        <source>Log In</source>
+        <target>Se connecter</target>
+      </trans-unit>
+      <trans-unit id="signup_button">
+        <source>Sign Up</source>
+        <target>S'inscrire</target>
+      </trans-unit>
+      <trans-unit id="logout_button">
+        <source>Log Out</source>
+        <target>Se déconnecter</target>
+      </trans-unit>
+      <trans-unit id="username_hint">
+        <source>Enter your username</source>
+        <target>Entrez votre nom d'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="password_hint">
+        <source>Enter your password</source>
+        <target>Entrez votre mot de passe</target>
+      </trans-unit>
+      <trans-unit id="forgot_password">
+        <source>Forgot Password?</source>
+        <target>Mot de passe oublié ?</target>
+      </trans-unit>
+      <trans-unit id="home_title">
+        <source>Home</source>
+        <target>Accueil</target>
+      </trans-unit>
+      <trans-unit id="explore_title">
+        <source>Explore</source>
+        <target>Explorer</target>
+      </trans-unit>
+      <trans-unit id="bookings_title">
+        <source>My Bookings</source>
+        <target>Mes Réservations</target>
+      </trans-unit>
+      <trans-unit id="profile_title">
+        <source>Profile</source>
+        <target>Profil</target>
+      </trans-unit>
+      <trans-unit id="settings_title">
+        <source>Settings</source>
+        <target>Paramètres</target>
+      </trans-unit>
+      <trans-unit id="language_label">
+        <source>Language</source>
+        <target>Langue</target>
+      </trans-unit>
+      <trans-unit id="dark_mode_label">
+        <source>Dark Mode</source>
+        <target>Mode sombre</target>
+      </trans-unit>
+      <trans-unit id="notifications_label">
+        <source>Notifications</source>
+        <target>Notifications</target>
+      </trans-unit>
+      <trans-unit id="save_button">
+        <source>Save</source>
+        <target>Enregistrer</target>
+      </trans-unit>
+      <trans-unit id="cancel_button">
+        <source>Cancel</source>
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="search_hint">
+        <source>Search destinations...</source>
+        <target>Rechercher des destinations...</target>
+      </trans-unit>
+      <trans-unit id="no_results_found">
+        <source>No results found</source>
+        <target>Aucun résultat trouvé</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
